@@ -15,6 +15,7 @@
     "mocha": "^4.0.1"
   },
   "build": {
-    "team": "domh"
+    "team": "domh",
+    "version": "0.0.2"
   }
 }
